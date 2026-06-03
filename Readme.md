@@ -1,174 +1,251 @@
-# 👋 Hi, I'm Md Sakib Chowdhury
+<div align="center">
 
-💻 MERN Stack Developer | Passionate about building modern web applications  
-🚀 Focused on clean code, scalable architecture, and user-friendly design
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Sakib%20Chowdhury&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB;Open+to+Work+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=md-sakib-chowdhury&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/md-sakib-chowdhury?style=for-the-badge&color=58A6FF&labelColor=1c1c1c&label=FOLLOWERS"/>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on MERN Stack projects
-- 🌱 Learning advanced backend & system design
-- 👯 I'm open to collaboration on web development projects
-- 💬 Ask me about React, Node.js, Express, MongoDB
-- 📫 How to reach me: **[mdsakibchowdhuryofficial00@gmail.com](mailto:mdsakibchowdhuryofficial00@gmail.com)**
+```javascript
+const sakib = {
+  name:       "Md Sakib Chowdhury",
+  role:       "MERN Stack Developer",
+  location:   "Bangladesh 🇧🇩",
+  email:      "mdsakibchowdhuryofficial00@gmail.com",
+  focus:      ["Clean Code", "Scalable Architecture", "User-Friendly Design"],
+  learning:   ["Advanced Backend", "System Design", "DevOps"],
+  available:  true, // Open to work & collaboration!
+};
+```
 
 ---
 
 ## 🚀 Tech Stack
 
+<div align="center">
+
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 [Code Innovior — Frontend Design](https://codeinnovior-9sf9.vercel.app/)
-> Modern frontend design project
-- Clean and responsive UI built with React
-- Modern component structure and styling
-- **Tech:** React.js, Tailwind CSS, JavaScript
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏥 [Shastho Khoji](https://shastho-khoji.vercel.app/)
+**Health Platform — Full Stack MERN**
+> Find doctors, book appointments & access health services
 
-### 🔹 [My Portfolio](https://my-portfolio-seven-flame-96.vercel.app/)
-> Personal developer portfolio
-- Showcases skills, projects, and experience
-- Fully responsive design
-- **Tech:** React.js, Tailwind CSS
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
----
+- 🔐 JWT Authentication
+- 🩺 Doctor search & appointment booking
+- 📱 Fully responsive UI
 
-### 🔹 [Kafilor Asir Portfolio](https://kafilorasir-protfolio.vercel.app/)
-> Client portfolio website
-- Clean layout with project showcase
-- **Tech:** React.js, CSS
+</td>
+<td width="50%" valign="top">
 
----
+### 🍔 [Food Delivery App](https://food-delivery-app-8quf.vercel.app/)
+**Food Platform — Full Stack MERN**
+> Browse, order & track food delivery in real time
 
-### 🔹 [CRUD Backend API](https://cruds-orpin.vercel.app/)
-> Backend CRUD operation project
-- RESTful API with full create, read, update, delete operations
-- **Tech:** Node.js, Express.js, MongoDB
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
----
+- 🛒 Cart & order management
+- 🔒 Secure authentication
+- 🌐 REST API integration
 
-### 🔹 [Alliance Sourcing BD — Full Frontend](https://alliance-sourcing-bd.vercel.app/)
-> Business website with full frontend
-- Professional business landing & product pages
-- Responsive and user-friendly design
-- **Tech:** React.js, Tailwind CSS, JavaScript
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏠 [House Rent Platform](https://frontend-final-project-phi.vercel.app/)
+**Property Listing — Full Stack MERN**
+> Search, list & rent properties online
 
-### 🔹 [Food Delivery App — Full Stack](https://food-delivery-app-8quf.vercel.app/)
-> Full stack food delivery application
-- Browse food items, cart, and order management
-- Secure authentication & API integration
-- **Tech:** MongoDB, Express.js, React.js, Node.js (MERN)
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
----
+- 🏘️ Property search & filter
+- 📋 Listing management
+- 📱 Responsive design
 
-### 🔹 [Mesbah — Full Stack MERN](https://mesbah-buvv.vercel.app/)
-> Full stack MERN web application
-- Complete frontend and backend integration
-- **Tech:** MongoDB, Express.js, React.js, Node.js
+</td>
+<td width="50%" valign="top">
 
----
+### 🛍️ [Alliance Sourcing BD](https://alliance-sourcing-bd.vercel.app/)
+**Business Website — Full Frontend**
+> Professional business platform with product showcase
 
-### 🔹 [Shastho Khoji — Health Platform](https://shastho-khoji.vercel.app/)
-> Health-focused web application (শাস্থ্য খোঁজি)
-- Find doctors, health services & appointments
-- Full stack with authentication
-- **Tech:** MongoDB, Express.js, React.js, Node.js (MERN)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
----
+- 🎨 Modern UI/UX design
+- ⚡ Optimized performance
+- 📱 Mobile-first approach
 
-### 🔹 [House Rent Platform — Full Stack](https://frontend-final-project-phi.vercel.app/)
-> Online house rent & listing platform
-- Property listings, search, and booking features
-- **Tech:** MongoDB, Express.js, React.js, Node.js (MERN)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### ⚙️ [CRUD Backend API](https://cruds-orpin.vercel.app/)
+**REST API — Node.js + Express + MongoDB**
+> Full CRUD operations with MongoDB integration
 
-### 🔹 [Landing Page — Project 1](https://front-end-project-2nd.vercel.app/)
-> Modern landing page design
-- Clean UI with smooth layout
-- **Tech:** HTML5, CSS3, JavaScript
+![Node](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
----
+- 📡 RESTful API design
+- 🗄️ MongoDB integration
+- 🔄 Full CRUD operations
 
-### 🔹 [Landing Page — Project 2](https://clinquant-lebkuchen-e9b66e.netlify.app/)
-> Responsive landing page
-- Visually appealing design
-- **Tech:** HTML5, CSS3, JavaScript
+</td>
+<td width="50%" valign="top">
 
----
+### 🌐 [Mesbah — Full Stack](https://mesbah-buvv.vercel.app/)
+**Web Application — Full Stack MERN**
+> Complete MERN stack web application
 
-### 🔹 [Landing Page — Project 3](https://fastidious-bunny-b6e485.netlify.app/)
-> Landing page with modern design
-- **Tech:** HTML5, CSS3, JavaScript
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
+- 🔐 User authentication
+- 🖥️ Full frontend & backend
+- 📦 Scalable architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [Code Innovior](https://codeinnovior-9sf9.vercel.app/)
+**Frontend Design Project**
+> Modern, responsive UI/UX design showcase
+
+![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
+- 🎨 Clean component design
+- 🌊 Smooth animations
+- 📱 Fully responsive
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 [My Portfolio](https://my-portfolio-seven-flame-96.vercel.app/)
+**Personal Portfolio Website**
+> Showcase of skills, projects & experience
+
+![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
+- 🧑‍💻 Skills & project showcase
+- 📬 Contact form integration
+- 📱 Mobile-friendly design
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📌 <strong>View More Projects</strong></summary>
+<br/>
+
+| Project | Type | Live Link |
+|---|---|---|
+| 🌐 Kafilor Asir Portfolio | Portfolio | [View →](https://kafilorasir-protfolio.vercel.app/) |
+| 📄 Landing Page 1 | Landing Page | [View →](https://front-end-project-2nd.vercel.app/) |
+| 📄 Landing Page 2 | Landing Page | [View →](https://clinquant-lebkuchen-e9b66e.netlify.app/) |
+| 📄 Landing Page 3 | Landing Page | [View →](https://fastidious-bunny-b6e485.netlify.app/) |
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-sakib-chowdhury&show_icons=true&theme=tokyonight&hide_border=true" alt="Sakib's GitHub Stats" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-sakib-chowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sakib-chowdhury&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-sakib-chowdhury&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sakib-chowdhury&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-sakib-chowdhury&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsakibchowdhuryofficial00@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-sakib-chowdhury)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsakibchowdhuryofficial00@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-seven-flame-96.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-sakib-chowdhury)
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-> I love solving real-world problems with code and continuously improving my skills 🚀
+### 💬 Let's build something amazing together!
 
----
+> *"I love solving real-world problems with code and continuously improving my skills"* 🚀
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-sakib-chowdhury&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
