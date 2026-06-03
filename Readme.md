@@ -64,12 +64,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [Shastho Khoji](https://shastho-khoji.vercel.app/)
-**Health Platform — Full Stack MERN**
+### 🏥 [Shastho Khoji — Health Platform](https://shastho-khoji.vercel.app/)
+**Full Stack MERN**
 > Find doctors, book appointments & access health services
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://shastho-khoji.vercel.app/)
 
 - 🔐 JWT Authentication
 - 🩺 Doctor search & appointment booking
@@ -79,11 +80,12 @@
 <td width="50%" valign="top">
 
 ### 🍔 [Food Delivery App](https://food-delivery-app-8quf.vercel.app/)
-**Food Platform — Full Stack MERN**
+**Full Stack MERN**
 > Browse, order & track food delivery in real time
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://food-delivery-app-8quf.vercel.app/)
 
 - 🛒 Cart & order management
 - 🔒 Secure authentication
@@ -95,11 +97,12 @@
 <td width="50%" valign="top">
 
 ### 🏠 [House Rent Platform](https://frontend-final-project-phi.vercel.app/)
-**Property Listing — Full Stack MERN**
+**Full Stack MERN**
 > Search, list & rent properties online
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://frontend-final-project-phi.vercel.app/)
 
 - 🏘️ Property search & filter
 - 📋 Listing management
@@ -108,42 +111,13 @@
 </td>
 <td width="50%" valign="top">
 
-### 🛍️ [Alliance Sourcing BD](https://alliance-sourcing-bd.vercel.app/)
-**Business Website — Full Frontend**
-> Professional business platform with product showcase
-
-![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-
-- 🎨 Modern UI/UX design
-- ⚡ Optimized performance
-- 📱 Mobile-first approach
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ [CRUD Backend API](https://cruds-orpin.vercel.app/)
-**REST API — Node.js + Express + MongoDB**
-> Full CRUD operations with MongoDB integration
-
-![Node](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-
-- 📡 RESTful API design
-- 🗄️ MongoDB integration
-- 🔄 Full CRUD operations
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌐 [Mesbah — Full Stack](https://mesbah-buvv.vercel.app/)
-**Web Application — Full Stack MERN**
+**Full Stack MERN**
 > Complete MERN stack web application
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://mesbah-buvv.vercel.app/)
 
 - 🔐 User authentication
 - 🖥️ Full frontend & backend
@@ -154,12 +128,45 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🛍️ [Alliance Sourcing BD](https://alliance-sourcing-bd.vercel.app/)
+**Full Frontend — React**
+> Professional business platform with product showcase
+
+![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://alliance-sourcing-bd.vercel.app/)
+
+- 🎨 Modern UI/UX design
+- ⚡ Optimized performance
+- 📱 Mobile-first approach
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [CRUD Backend API](https://cruds-orpin.vercel.app/)
+**Backend — Node.js + Express + MongoDB**
+> Full CRUD operations with REST API
+
+![Node](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://cruds-orpin.vercel.app/)
+
+- 📡 RESTful API design
+- 🗄️ MongoDB integration
+- 🔄 Full CRUD operations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎨 [Code Innovior](https://codeinnovior-9sf9.vercel.app/)
-**Frontend Design Project**
+**Frontend Design**
 > Modern, responsive UI/UX design showcase
 
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://codeinnovior-9sf9.vercel.app/)
 
 - 🎨 Clean component design
 - 🌊 Smooth animations
@@ -169,14 +176,15 @@
 <td width="50%" valign="top">
 
 ### 💼 [My Portfolio](https://my-portfolio-seven-flame-96.vercel.app/)
-**Personal Portfolio Website**
+**Personal Portfolio**
 > Showcase of skills, projects & experience
 
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://my-portfolio-seven-flame-96.vercel.app/)
 
 - 🧑‍💻 Skills & project showcase
-- 📬 Contact form integration
+- 📬 Contact form
 - 📱 Mobile-friendly design
 
 </td>
@@ -189,10 +197,10 @@
 
 | Project | Type | Live Link |
 |---|---|---|
-| 🌐 Kafilor Asir Portfolio | Portfolio | [View →](https://kafilorasir-protfolio.vercel.app/) |
-| 📄 Landing Page 1 | Landing Page | [View →](https://front-end-project-2nd.vercel.app/) |
-| 📄 Landing Page 2 | Landing Page | [View →](https://clinquant-lebkuchen-e9b66e.netlify.app/) |
-| 📄 Landing Page 3 | Landing Page | [View →](https://fastidious-bunny-b6e485.netlify.app/) |
+| 🌐 Kafilor Asir Portfolio | Portfolio | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://kafilorasir-protfolio.vercel.app/) |
+| 📄 Landing Page 1 | Landing Page | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://front-end-project-2nd.vercel.app/) |
+| 📄 Landing Page 2 | Landing Page | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=netlify)](https://clinquant-lebkuchen-e9b66e.netlify.app/) |
+| 📄 Landing Page 3 | Landing Page | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=netlify)](https://fastidious-bunny-b6e485.netlify.app/) |
 
 </details>
 
@@ -211,13 +219,6 @@
 </div>
 
 ---
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=md-sakib-chowdhury&theme=tokyonight)
-
----
-
 
 ## 🏆 GitHub Trophies
 
