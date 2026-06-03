@@ -218,6 +218,11 @@
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-sakib-chowdhury&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=md-sakib-chowdhury&theme=tokyonight)
+
 ---
 
 ## 🏆 GitHub Trophies
