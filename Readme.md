@@ -63,14 +63,13 @@
 </p>
 
 ---
-
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=md-sakib-chowdhury&theme=tokyonight)
 
 ---
+
+
 
 ## 📈 Top Languages
 
