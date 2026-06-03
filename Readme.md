@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Sakib%20Chowdhury&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB;Open+to+Work+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=md-sakib-chowdhury&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/md-sakib-chowdhury?style=for-the-badge&color=58A6FF&labelColor=1c1c1c&label=FOLLOWERS"/>
 
@@ -16,19 +13,15 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
-```javascript
-const sakib = {
-  name:       "Md Sakib Chowdhury",
-  role:       "MERN Stack Developer",
-  location:   "Bangladesh 🇧🇩",
-  email:      "mdsakibchowdhuryofficial00@gmail.com",
-  focus:      ["Clean Code", "Scalable Architecture", "User-Friendly Design"],
-  learning:   ["Advanced Backend", "System Design", "DevOps"],
-  available:  true, // Open to work & collaboration!
-};
-```
+- 🔭 Currently working on **MERN Stack projects**
+- 🌱 Learning **Advanced Backend & System Design**
+- 👯 Open to **collaboration** on web development projects
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 📫 Email: **mdsakibchowdhuryofficial00@gmail.com**
+- 📍 Location: **Bangladesh**
+- ✅ **Available for work & freelance!**
 
 ---
 
@@ -209,7 +202,7 @@ const sakib = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-sakib-chowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
