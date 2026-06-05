@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Sakib%20Chowdhury&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md%20Sakib%20Chowdhury&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=22" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB;Open+to+Work+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB;Open+to+Work+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 - 👯 Open to **collaboration** on web development projects
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 Email: **mdsakibchowdhuryofficial00@gmail.com**
-- 📍 Location: **Bangladesh**
+- 📍 Location: **Bangladesh 🇧🇩**
 - ✅ **Available for work & freelance!**
 
 ---
@@ -46,7 +46,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠️ Tools
+### 🛠️ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -210,20 +210,24 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-sakib-chowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sakib-chowdhury&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sakib-chowdhury&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-sakib-chowdhury&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-sakib-chowdhury&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=md-sakib-chowdhury&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
+---
 
 ## 🌐 Connect With Me
 
@@ -244,6 +248,6 @@
 
 > *"I love solving real-world problems with code and continuously improving my skills"* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
