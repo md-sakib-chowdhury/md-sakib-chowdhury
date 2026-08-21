@@ -7,6 +7,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=md-sakib-chowdhury&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+
 <img src="https://img.shields.io/github/followers/md-sakib-chowdhury?style=for-the-badge&color=58A6FF&labelColor=1c1c1c&label=FOLLOWERS"/>
 
 </div>
@@ -30,6 +31,7 @@
 <div align="center">
 
 ### 💻 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,15 +40,18 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🛠️ Tools & Deployment
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -62,14 +67,18 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏥 [Shastho Khoji — Health Platform](https://shastho-khoji.vercel.app/)
+
 **Full Stack MERN**
+
 > Find doctors, book appointments & access health services
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://shastho-khoji.vercel.app/)
 
 - 🔐 JWT Authentication
@@ -77,14 +86,18 @@
 - 📱 Fully responsive UI
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🍔 [Food Delivery App](https://food-delivery-app-8quf.vercel.app/)
+
 **Full Stack MERN**
+
 > Browse, order & track food delivery in real time
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://food-delivery-app-8quf.vercel.app/)
 
 - 🛒 Cart & order management
@@ -92,16 +105,22 @@
 - 🌐 REST API integration
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏠 [House Rent Platform](https://frontend-final-project-phi.vercel.app/)
+
 **Full Stack MERN**
+
 > Search, list & rent properties online
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://frontend-final-project-phi.vercel.app/)
 
 - 🏘️ Property search & filter
@@ -109,14 +128,18 @@
 - 📱 Responsive design
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🌐 [Mesbah — Full Stack](https://mesbah-buvv.vercel.app/)
+
 **Full Stack MERN**
+
 > Complete MERN stack web application
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://mesbah-buvv.vercel.app/)
 
 - 🔐 User authentication
@@ -124,16 +147,22 @@
 - 📦 Scalable architecture
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛍️ [Alliance Sourcing BD](https://alliance-sourcing-bd.vercel.app/)
+
 **Full Frontend — React**
+
 > Professional business platform with product showcase
 
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://alliance-sourcing-bd.vercel.app/)
 
 - 🎨 Modern UI/UX design
@@ -141,14 +170,18 @@
 - 📱 Mobile-first approach
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ⚙️ [CRUD Backend API](https://cruds-orpin.vercel.app/)
+
 **Backend — Node.js + Express + MongoDB**
+
 > Full CRUD operations with REST API
 
 ![Node](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://cruds-orpin.vercel.app/)
 
 - 📡 RESTful API design
@@ -156,16 +189,22 @@
 - 🔄 Full CRUD operations
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎨 [Code Innovior](https://codeinnovior-9sf9.vercel.app/)
+
 **Frontend Design**
+
 > Modern, responsive UI/UX design showcase
 
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://codeinnovior-9sf9.vercel.app/)
 
 - 🎨 Clean component design
@@ -173,14 +212,18 @@
 - 📱 Fully responsive
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💼 [My Portfolio](https://my-portfolio-seven-flame-96.vercel.app/)
+
 **Personal Portfolio**
+
 > Showcase of skills, projects & experience
 
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://my-portfolio-seven-flame-96.vercel.app/)
 
 - 🧑‍💻 Skills & project showcase
@@ -188,11 +231,16 @@
 - 📱 Mobile-friendly design
 
 </td>
+
 </tr>
 </table>
 
+---
+
 <details>
+
 <summary>📌 <strong>View More Projects</strong></summary>
+
 <br/>
 
 | Project | Type | Live Link |
@@ -209,14 +257,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-sakib-chowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sakib-chowdhury&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-sakib-chowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sakib-chowdhury&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-sakib-chowdhury&theme=tokyo-night&hide_border=true&area=true" />
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-sakib-chowdhury&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
 
 ---
@@ -224,7 +277,9 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
@@ -234,8 +289,11 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsakibchowdhuryofficial00@gmail.com)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-seven-flame-96.vercel.app/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-sakib-chowdhury)
 
 </div>
