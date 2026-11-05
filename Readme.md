@@ -1,4 +1,9 @@
- <div align="center">
+
+<div align="center">
+
+# MD SAKIB CHOWDHURY
+
+### 🚀 MERN Stack Developer | Full Stack Web Developer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=header" width="100%"/>
 
@@ -239,6 +244,10 @@ A portfolio website highlighting my skills, projects, and development experience
 <img src="https://img.shields.io/badge/Current_Streak-222_Days-blue?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Longest_Streak-222_Days-purple?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Total_Contributions-1800-success?style=for-the-badge&logo=github"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=md-sakib-chowdhury&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&custom_title=My%20GitHub%20Journey"/>
 
 </div>
 
