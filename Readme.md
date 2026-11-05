@@ -1,119 +1,281 @@
-<div align="center">MD SAKIB CHOWDHURY
-MERN Stack Developer · Full-Stack Web Developer
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Building+Scalable+Web+Applications;Open+to+Work+%26+Collaboration" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=md-sakib-chowdhury&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/md-sakib-chowdhury?style=for-the-badge&color=0e75b6&label=FOLLOWERS"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **MERN Stack Developer** focused on building modern, responsive, scalable, and user-friendly web applications.
+
+I enjoy transforming ideas into practical digital solutions and solving real-world problems through technology.
+
+- 🚀 Experienced in developing full-stack web applications.
+- 💻 Focused on React.js, Node.js, Express.js, and MongoDB.
+- 🔐 Experienced with REST APIs and JWT Authentication.
+- 🛒 Interested in E-commerce, Healthcare, and Business Management Solutions.
+- 🌱 Continuously improving my backend development and system design skills.
+- 🤝 Open to professional opportunities, freelance projects, and collaboration.
+- 📍 Bangladesh 🇧🇩
+
+**Current Focus:** Building scalable MERN applications and improving backend architecture.
+
+---
+
+## 🛠️ Technical Skills
+
+### 🎨 Frontend Development
+
 <p>
-  <a href="https://github.com/md-sakib-chowdhury">
-    <img src="https://komarev.com/ghpvc/?username=md-sakib-chowdhury&style=flat-square&color=2563eb&label=Profile+Views" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/md-sakib-chowdhury?tab=followers">
-    <img src="https://img.shields.io/github/followers/md-sakib-chowdhury?style=flat-square&color=0891b2&label=Followers" alt="GitHub followers"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Bangladesh-006a4e?style=flat-square" alt="Bangladesh"/>
-</p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+modern+web+applications;Developing+with+the+MERN+stack;Turning+ideas+into+digital+solutions;Always+learning+and+improving" alt="Typing introduction"/></div>About Me
-I'm a MERN Stack Developer passionate about building modern, responsive, and user-focused web applications. I enjoy turning ideas into practical digital products, developing reliable backend services, and creating clean user interfaces.
-- 💻 Working with React.js, Next.js, Node.js, Express.js, and MongoDB.
-- 🔐 Building RESTful APIs with authentication and authorization.
-- 🧩 Interested in healthcare, e-commerce, and business management applications.
-- 🌱 Continuously improving my backend development and software engineering skills.
-- 🤝 Open to collaboration, freelance projects, and professional opportunities.
-- 📍 Based in Bangladesh.
-Technical Skills
-<div align="center">Frontend	Backend	Database & Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend skills"/>	<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend skills"/>	<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,postman,vercel,netlify" alt="Database and tools"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap"/>
+</p>
 
+### ⚙️ Backend Development
 
-</div>Additional skills
-- RESTful API design and integration
-- JWT authentication and authorization
-- CRUD operations and middleware
-- Responsive UI development
-- Git and GitHub version control
-Featured Projects
-1. Shastho Khoji — Healthcare Platform
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+- RESTful API Development
+- JWT Authentication & Authorization
+- CRUD Operations
+- Middleware & API Integration
+
+### 🗄️ Database & Authentication
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 1. Shastho Khoji — Healthcare Platform
+
+**Full Stack MERN Application**
+
 A healthcare platform designed to help users find doctors and access healthcare services.
-- Doctor search and appointment booking
-- JWT-based authentication
-- User management and responsive interface
-Tech: React.js · Node.js · Express.js · MongoDB
 
-Live Demo
-2. Food Delivery Application
-A food delivery platform where users can browse food items and manage orders.
-- Shopping cart and order management
-- User authentication
-- REST API integration and responsive design
-Tech: React.js · Node.js · Express.js · MongoDB
+- 🔐 JWT-based Authentication
+- 🩺 Doctor Search & Appointment Booking
+- 👤 User Management
+- 📱 Responsive User Interface
 
-Live Demo
-3. House Rent Platform
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+[🌐 Live Demo](https://shastho-khoji.vercel.app/)
+
+---
+
+### 🍔 2. Food Delivery Application
+
+**Full Stack MERN Application**
+
+A food delivery platform where users can browse food items and manage their orders.
+
+- 🛒 Shopping Cart & Order Management
+- 🔒 User Authentication
+- 📡 REST API Integration
+- 📱 Responsive Design
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+[🌐 Live Demo](https://food-delivery-app-8quf.vercel.app/)
+
+---
+
+### 🏠 3. House Rent Platform
+
+**Full Stack MERN Application**
+
 A property rental platform for searching, listing, and managing rental properties.
-- Property search and filtering
-- Property listing management
-- User management and mobile-friendly interface
-Tech: React.js · Node.js · Express.js · MongoDB
 
-Live Demo
-4. Mesbah — Full-Stack Application
-A full-stack application demonstrating frontend and backend integration.
-- User authentication
-- Backend API development
-- Responsive user interface
-Tech: React.js · Node.js · Express.js · MongoDB
+- 🏘️ Property Search & Filtering
+- 📋 Property Listing Management
+- 👤 User Management
+- 📱 Mobile-Friendly Interface
 
-Live Demo
-5. Alliance Sourcing BD
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+[🌐 Live Demo](https://frontend-final-project-phi.vercel.app/)
+
+---
+
+### 🌐 4. Mesbah — Full Stack Application
+
+**Full Stack MERN Application**
+
+A full-stack web application demonstrating frontend and backend integration.
+
+- 🔐 User Authentication
+- 🖥️ Full-Stack Integration
+- 📦 Backend API Development
+- 📱 Responsive Interface
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+[🌐 Live Demo](https://mesbah-buvv.vercel.app/)
+
+---
+
+### 🛍️ 5. Alliance Sourcing BD
+
+**React Frontend Application**
+
 A professional business website with a modern product showcase.
-- Modern UI/UX
-- Responsive layout
-- Business product showcase
-Tech: React.js · JavaScript · Tailwind CSS
 
-Live Demo
-6. CRUD Backend API
+- 🎨 Modern UI/UX
+- ⚡ Optimized Frontend
+- 📱 Responsive Layout
+- 🌐 Business Product Showcase
+
+**Tech Stack:** React.js, JavaScript, Tailwind CSS
+
+[🌐 Live Demo](https://alliance-sourcing-bd.vercel.app/)
+
+---
+
+### ⚙️ 6. CRUD Backend API
+
+**Backend Application**
+
 A RESTful backend API demonstrating database integration and CRUD functionality.
-- Create, read, update, and delete operations
-- MongoDB integration
-- Backend API development
-Tech: Node.js · Express.js · MongoDB
 
-Live Demo
-7. Code Innovior
+- ➕ Create Records
+- 📖 Read Records
+- ✏️ Update Records
+- 🗑️ Delete Records
+- 🗄️ MongoDB Integration
+
+**Tech Stack:** Node.js, Express.js, MongoDB
+
+[🌐 Live Demo](https://cruds-orpin.vercel.app/)
+
+---
+
+### 🎨 7. Code Innovior
+
+**Frontend Design Project**
+
 A modern and responsive website showcasing frontend development skills.
-- Clean UI components
-- Smooth animations
-- Responsive design
-Live Demo
-8. Personal Portfolio
+
+- 🎨 Clean UI Components
+- 🌊 Smooth Animations
+- 📱 Responsive Design
+
+[🌐 Live Demo](https://codeinnovior-9sf9.vercel.app/)
+
+---
+
+### 💼 8. Personal Portfolio
+
+**Personal Developer Portfolio**
+
 A portfolio website highlighting my skills, projects, and development experience.
-- Professional portfolio
-- Project showcase
-- Contact section and responsive design
-Live Demo
+
+- 🧑‍💻 Professional Portfolio
+- 📂 Project Showcase
+- 📬 Contact Section
+- 📱 Responsive Design
+
+[🌐 Live Demo](https://my-portfolio-seven-flame-96.vercel.app/)
+
+---
+
 <details>
-<summary><strong>More Projects</strong></summary>Project	Category	Link
-Kafilor Asir Portfolio	Portfolio	View Project
-Landing Page 1	Frontend	View Project
-Landing Page 2	Frontend	View Project
-Landing Page 3	Frontend	View Project
+<summary><b>📂 Explore More Projects</b></summary>
 
+| Project | Category | Live Demo |
+|:---|:---|:---|
+| Kafilor Asir Portfolio | Portfolio | [View Project](https://kafilorasir-protfolio.vercel.app/) |
+| Landing Page 1 | Frontend | [View Project](https://front-end-project-2nd.vercel.app/) |
+| Landing Page 2 | Frontend | [View Project](https://clinquant-lebkuchen-e9b66e.netlify.app/) |
+| Landing Page 3 | Frontend | [View Project](https://fastidious-bunny-b6e485.netlify.app/) |
 
-</details>GitHub Statistics
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=md-sakib-chowdhury&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sakib-chowdhury&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-sakib-chowdhury&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/></div>GitHub Contribution Streak
-<div align="center"><img src="https://streak-stats.demolab.com/?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="85%" alt="GitHub contribution streak"/></div>Note: The streak card displays data calculated from your public GitHub contribution activity. It may take time to load if the third-party image service is temporarily unavailable.
+</details>
 
-Let's Connect
-I'm interested in meeting developers, collaborating on useful products, and exploring new professional opportunities.
-<div align="center"><a href="https://github.com/md-sakib-chowdhury">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=md-sakib-chowdhury&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sakib-chowdhury&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-sakib-chowdhury&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=md-sakib-chowdhury&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="80%"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Current_Streak-222_Days-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Longest_Streak-222_Days-purple?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Total_Contributions-1800-success?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on exciting projects, and exploring new professional opportunities.
+
+<div align="center">
+
+<a href="https://github.com/md-sakib-chowdhury">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/md-sakib-chowdhury-6568ba3aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:mdsakibchowdhuryofficial00@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://my-portfolio-seven-flame-96.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a></div><div align="center">Turning ideas into digital solutions through code, creativity, and continuous learning.
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Turning Ideas Into Digital Solutions
+
+*"Building meaningful digital experiences through clean code, continuous learning, and innovation."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
 </div>
